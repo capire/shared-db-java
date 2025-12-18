@@ -1,0 +1,22 @@
+{
+  "name": "@capire/shared-db-java",
+  "version": "3.0.0",
+  "description": "CAP Sample CDS model deployment for shared-db scenario",
+  "dependencies": {
+    "@capire/bookstore-java": "*",
+    "@capire/orders-java": "*",
+    "@capire/reviews-java": "*"
+  },
+  "cds": {
+    "requires": {
+      "db-ext": {
+        "[development]": {
+          "model": "@capire/bookstore-java/db/h2"
+        },
+        "[production]": {
+          "model": "@capire/bookstore-java/db/hana"
+        }
+      }
+    }
+  }
+}
