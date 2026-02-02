@@ -7,6 +7,10 @@
     "@capire/orders-java": "*",
     "@capire/reviews-java": "*"
   },
+  "devDependencies": {
+    "@sap/cds": "^9",
+    "@sap/cds-dk": "^9"
+  },
   "cds": {
     "requires": {
       "db-ext": {
