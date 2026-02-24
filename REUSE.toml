@@ -1,0 +1,11 @@
+version = 1
+SPDX-PackageName = "capire-shared-db-java"
+SPDX-PackageSupplier = "The cap team <cap@sap.com>"
+SPDX-PackageDownloadLocation = "https://github.com/capire/shared-db-java"
+SPDX-PackageComment = "This project demonstrates how to setup a repository referencing several other SAP CAP CDS models."
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 SAP SE or an SAP affiliate company and cds-dbs contributors"
+SPDX-License-Identifier = "Apache-2.0"

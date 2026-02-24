@@ -5,7 +5,8 @@ Shows how a model can be shared across multiple apps that all rely on the same d
 > [!CAUTION]
 > This is just a sample, not intended for production use. It is meant to demonstrate how to create a CAP plugin and how to use it in your application. It is not optimized for performance or security.
 
+[![REUSE status](https://api.reuse.software/badge/github.com/capire/shared-db-java)](https://api.reuse.software/info/github.com/capire/shared-db-java)
 
 ## License
 
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
+Copyright 2026 SAP SE or an SAP affiliate company and capire/shared-db-java contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/capire/shared-db-java).
