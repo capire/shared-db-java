@@ -1,4 +1,4 @@
-# @capire/shared-db-java
+# @capire/shared-db
 
 Shows how a model can be shared across multiple apps that all rely on the same domain model.  See the [Microservices with CAP](https://cap.cloud.sap/docs/guides/deployment/microservices) guide for the general idea and background.
 
